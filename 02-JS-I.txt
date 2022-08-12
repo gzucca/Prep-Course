@@ -1,0 +1,6 @@
+Variables: es un atajo para llamar un valor (numero, texto o prueba lógica de verdadero o falso).
+Strings: son textos que no ejecutan comandos o funciones. Se escriben entre comillas (simples o dobles).
+Funciones: son comandos atajos que ejecutan una acción que uno les establece de forma tal que no se tenga que reescribir varias veces lo mismo. Estas funciones pueden llevar un "argumento" que hace que uno pueda personalizar la ejecución de la acción al agregar caractéres a los que se hace referencia dentro de la función, o una variable. Al utilizar la palabra clave "return" se puede hacer que la función devuelva un valor a la consola, y al ocurrir esto, la ejecución de la función se detiene.
+Declaraciones if: son un tipo de comando que comprueba una condición y realiza una acción de haberse cumplido.
+Valores booleanos: son pruebas lógicas que sólo se pueden responder con "verdadero" (true) o "falso" (false).
+
